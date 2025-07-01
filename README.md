@@ -2,9 +2,11 @@
 Internship and Placement Portal 🎓
 
 About
+
 The Internship and Placement Portal is a web-based platform developed to streamline the college placement process. It enables students to register, view job/internship opportunities, and apply based on eligibility. Admins can manage job postings, student records, and view placement statistics—all from one place.
 
 Features
+
 👨‍🎓 Student Sign-up/Login System
 🧾 Academic & Personal Record Management
 💼 View & Apply to Jobs/Internships (based on eligibility)
