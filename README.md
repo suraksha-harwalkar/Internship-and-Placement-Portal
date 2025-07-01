@@ -8,18 +8,23 @@ The Internship and Placement Portal is a web-based platform developed to streaml
 Features
 
 👨‍🎓 Student Sign-up/Login System
+
 🧾 Academic & Personal Record Management
+
 💼 View & Apply to Jobs/Internships (based on eligibility)
+
 🧑‍💼 Admin Dashboard for Job Posting
+
 📊 Placement Statistics & Drive Management
+
 🔒 Secure Access for Admin & Student Roles
 
 Deployment Instructions
 
-Clone the repository and install required Python libraries using pip install -r requirements.txt.
+1. Clone the repository and install required Python libraries using pip install -r requirements.txt.
 
-Ensure Python and Flask are properly set up in your environment.
+2. Ensure Python and Flask are properly set up in your environment.
 
-Start the application using python app.py.
+3. Start the application using python app.py.
 
-Open http://127.0.0.1:5000 in your web browser to use the system.
+4. Open http://127.0.0.1:5000 in your web browser to use the system.
