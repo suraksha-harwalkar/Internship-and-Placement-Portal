@@ -1,25 +1,25 @@
 
-Internship and Placement Portal 🎓
+#Internship and Placement Portal 🎓
 
-About
+##About
 
-The Internship and Placement Portal is a web-based platform developed to streamline the college placement process. It enables students to register, view job/internship opportunities, and apply based on eligibility. Admins can manage job postings, student records, and view placement statistics—all from one place.
+The #Internship and Placement Portal# is a web-based platform developed to streamline the college placement process. It enables students to register, view job/internship opportunities, and apply based on eligibility. Admins can manage job postings, student records, and view placement statistics—all from one place.
 
-Features
+##Features
 
-👨‍🎓 Student Sign-up/Login System
+-👨‍🎓 Student Sign-up/Login System
 
-🧾 Academic & Personal Record Management
+-🧾 Academic & Personal Record Management
 
-💼 View & Apply to Jobs/Internships (based on eligibility)
+-💼 View & Apply to Jobs/Internships (based on eligibility)
 
-🧑‍💼 Admin Dashboard for Job Posting
+-🧑‍💼 Admin Dashboard for Job Posting
 
-📊 Placement Statistics & Drive Management
+-📊 Placement Statistics & Drive Management
 
-🔒 Secure Access for Admin & Student Roles
+-🔒 Secure Access for Admin & Student Roles
 
-Deployment Instructions
+##Deployment Instructions
 
 1. Clone the repository and install required Python libraries using pip install -r requirements.txt.
 
